@@ -1,7 +1,8 @@
 <div align="center">
 
-<img 
-src="https://github.com/user-attachments/assets/10d3d969-3261-42dc-8f23-125dd1b4dea7"
+<gif 
+src="
+"
 width="85%" 
 style="
  border-radius: 20px;
