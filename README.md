@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c578c476-d46a-4c18-9766-250cedce1303" />
+<img src="https://github.com/user-attachments/assets/c578c476-d46a-4c18-9766-250cedce1303" />
 
 
 <img src="PASTE_BACKGROUND_IMAGE_HERE" width="100%" />
 
-<img width="736" height="414" alt="videoframe_6046" src="https://github.com/user-attachments/assets/11e6e5a7-5075-4ec8-ae0c-08e51a0c38f4" />
+<img src="https://github.com/user-attachments/assets/11e6e5a7-5075-4ec8-ae0c-08e51a0c38f4" />
 
 
 <div style="margin-top:-38%;">
